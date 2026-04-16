@@ -1,4 +1,4 @@
-# 🌐 Tebzanator — Personal Portfolio Website
+# 🌐 Tebogo Makhura — Personal Portfolio Website
 
 > A personal portfolio website built with HTML, CSS, and JavaScript by **Tebogo Makhura**, an aspiring Data Scientist and BSc Computer Science & Mathematics student.
 
@@ -70,7 +70,7 @@ Tebzanator/
 | 📧 Email | makhuratebogo101@gmail.com |
 | 📘 Facebook | Tebogo Maglera |
 | 📞 Cell | 076 609 5625 |
-| 🐙 GitHub | [212bradley](https://github.com/212bradley) |
+| 🐙 GitHub | [Tebogo Makhura]([https://github.com/makhuratebogo101-dotcom]) |
 | 💼 LinkedIn | Kgamudi Makhura |
 
 ---
